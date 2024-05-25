@@ -2,6 +2,10 @@ import 'package:flutter/material.dart';
 import 'home_page.dart';
 import 'settings_page.dart';
 import 'profile_page.dart';
+import 'cocina_page.dart';
+import 'all_page.dart';
+import 'lb_page.dart';
+import 'recamara_page.dart';
 
 void main() {
   runApp(MyApp());
